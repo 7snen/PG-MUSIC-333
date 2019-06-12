@@ -3,4 +3,4 @@ prefix=3
 game=3play|#PG Community
 stayinchannel=false
 songinstatus=false
-token=NTg3MzMyNDUwOTc2Mzk5MzY0.XP1CDA.dSKSEfUNO04PzTfDbN1fUDRiffc
+token=NTg4MzUxMTcyMDM3OTY3ODc2.XQD2xw.oHAdLtbpLUicbnBICN-Y5WnmoCE
